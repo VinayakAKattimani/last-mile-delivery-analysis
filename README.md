@@ -2,6 +2,11 @@
 
 This project analyzes last-mile delivery performance using SQL and Power BI. The aim is to identify time delays, detect inefficiencies in the delivery process, and generate actionable insights to improve on-time delivery rates. The analysis is well-suited for logistics, e-commerce, or hyperlocal delivery platforms.
 
+## 📁 Dataset
+
+This project uses a cleaned last-mile delivery dataset. You can download it directly below:
+
+🔗 [Download delivery_hz.parquet (130 MB)](https://huggingface.co/datasets/VinayakAKattimani/last-mile-delivery/resolve/main/data/delivery_hz-00000-of-00001-8090c86f64781f71.parquet)
 
 
 ## Data Cleaning
