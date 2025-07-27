@@ -2,6 +2,8 @@
 
 This project analyzes last-mile delivery performance using SQL and Power BI. The aim is to identify time delays, detect inefficiencies in the delivery process, and generate actionable insights to improve on-time delivery rates. The analysis is well-suited for logistics, e-commerce, or hyperlocal delivery platforms.
 
+
+
 ## Data Cleaning
 
 Before diving into the analysis, the raw dataset was cleaned to ensure accurate insights. The cleaning process involved:
